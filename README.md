@@ -9,7 +9,7 @@ HACK CAMERAS
 - pip3 install colorama
 - clear
 - ls
-- cd ELJOKAR-CAM.py
+- cd Elgokar-WebCam
 - python3 cam-hackers.py
 
 
