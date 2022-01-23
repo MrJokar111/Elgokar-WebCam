@@ -7,7 +7,9 @@ HACK CAMERAS
 - git clone https://github.com/AngelSecurityTeam/Cam-Hackers
 - pip3 install requests
 - pip3 install colorama
-- cd Cam-Hackers
+- clear
+- ls
+- cd ELJOKAR-CAM.py
 - python3 cam-hackers.py
 
 
