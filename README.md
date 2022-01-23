@@ -10,7 +10,7 @@ HACK CAMERAS
 - clear
 - ls
 - cd Elgokar-WebCam
-- python3 cam-hackers.py
+- python3 ELJOKAR-CAM.py
 
 
 # Now the tool has been installed successfully 😜
